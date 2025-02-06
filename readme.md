@@ -9,7 +9,12 @@ This application includes both LDAP and DAO authentication structures.
 curl http://localhost:8080/api/public/test
 ```
 
-# Secure endpoint (authentication gerekli)
+# Secure endpoint (for LDAP Authentication)
 ```
 curl -u ozgur:password http://localhost:8080/api/secure/test
+```
+
+# Secure endpoint (for DAO Authentication)
+```
+curl -u dbuser:dbpass http://localhost:8080/api/secure/test
 ```
