@@ -1,7 +1,8 @@
 # Read Me First
 The following was discovered as part of building this project:
 
-* The original package name 'com.app.spring-boot-ldap-integration' is invalid and this project uses 'com.app.spring_boot_ldap_integration' instead.
+### Eureka (http://localhost:8761/) ###
+<img src="https://github.com/OzgurAkinci/spring-boot-ldap-integration/blob/master/ldap-1.png">
 
 # Getting Started
 
