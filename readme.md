@@ -1,5 +1,5 @@
 # SpringBoot LDAP Integration
-
+This application includes both LDAP and DAO authentication structures.
 
 ### Apache Directory Studio - LDAP Users ###
 <img src="https://github.com/OzgurAkinci/spring-boot-ldap-integration/blob/master/ldap-1.png" alt="ldap-users">
